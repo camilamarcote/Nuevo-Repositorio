@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+    int num1, num2, suma;
+    
+    // Solicitar al usuario que ingrese dos números
+    printf("Ingrese el primer número: ");
+    scanf ("%d" &num1);
+    printf("ingrese el segundo numero: ");
+    sacanf("%d" &num2);
+
+    suma= num1 + num2
+      printf("la suma es de:suma")
+
+      return 0
+      }
