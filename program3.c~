@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main() {
+  int x, y,z,resultado ;
+    
+    // Solicitar al usuario que ingrese dos números
+    printf("Ingrese el primer número: ");
+    scanf("%d", &x);
+    printf("Ingrese el segundo número: ");
+    scanf("%d", &y);
+    printf("ingrese el tercer nùmero")
+    scanf("%d",&z);
+    // Calcular la suma de los dos números
+    resultado =5*x-4*y+3*z ;
+    
+    // Mostrar el resultado
+    printf("5x-4y+3z %d y %d es: %d\n", x, y, z, resultado);
+    
+    return 0;
+}
